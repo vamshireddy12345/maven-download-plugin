@@ -14,7 +14,7 @@
 	</parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.host.url>http://65.0.6.88:8080/</sonar.host.url>
+		<sonar.host.url>http://65.0.6.88:9000/</sonar.host.url>
 	</properties>
 	<!-- Build plugins and extensions -->
 	<build>
